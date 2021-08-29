@@ -2805,3 +2805,10 @@ in a future release.
   - xSQLServerSetup
   - xSQLServerFirewall
   - xSQLServerRSSecureConnectionLevel
+  - 
+## [1.3.0.0] - 2021-08-29
+
+### Changed
+
+- add Windows Server 2022 as an additional OS for our integration tests 
+- remove the jobs Test_Integration_SQL2016, Test_Integration_SQL2017, Test_Integration_SQL2019
